@@ -11,12 +11,15 @@
 
 <h2> About Me </h2>
 
-<img width="35%" align="right" alt="studying" src="https://images.unsplash.com/photo-1434030216411-0b793f4b4173?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1770&q=80" />
+<img width="45%" align="right" alt="studying" src="https://images.unsplash.com/photo-1434030216411-0b793f4b4173?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1770&q=80" />
 
 
 - 🔭 Currently working on a backend oriented, commerce fullstack project. 
 
 - 🏫 Recent Software Engineer gratudate from Flatiron School, New York.
+- 🎓 MM at Manhattan School of Music
+- 🎓 BM at Florida State Univeristy 
+
 
 - 📚 I'm a full stack developer with a background as a professional musician. Strong skills in discipline, team-leading, critical thinking and project management.  With 7 years of experience in teaching and house managing concert halls, I bring systematic skills to tech projects with a desire to build projects that invoke creativity. As bilingual Korean-American, I look forward to working with a fast-paced, diverse work environment that values my persistence and quick ability to learn.
 
@@ -36,3 +39,4 @@
 <a href = 'https://www.linkedin.com/in/leslie-yi/'> <img width = '32px' align= 'center'  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/></a> 
 <a href = 'https://leslieyi.medium.com/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a> 
 <a href = 'https://github.com/leslieyi'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
+<a href = "https://www.youtube.com/user/leslieyi411"> <img width = "32px" align = "center" src = "https://logos-world.net/wp-content/uploads/2020/04/YouTube-Emblem.png"/></a>
