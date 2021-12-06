@@ -2,7 +2,7 @@
 <img width="100%" height = "100%" src="./banner-pic.png" alt="cover" />
 </div>
 
-<h1> Hello Fellow Developers! <a href ="https://leslieyi.wixsite.com/leslieyi"> <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </a> </h1>
+<h1> Hello, Fellow Developers! <a href ="https://leslieyi.wixsite.com/leslieyi"> <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </a> </h1>
 <p align='center'>
 </p>
 
@@ -13,8 +13,6 @@
 
 <img width="45%" align="right" alt="studying" src="https://images.unsplash.com/photo-1434030216411-0b793f4b4173?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1770&q=80" />
 
-
-- 🔭 Currently working on a backend oriented, commerce fullstack project. 
 
 - 🏫 Recent Software Engineer gratudate from Flatiron School, New York.
 - 🎓 MM at Manhattan School of Music
