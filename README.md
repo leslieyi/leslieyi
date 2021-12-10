@@ -13,13 +13,13 @@
 
 <img width="45%" align="right" alt="studying" src="https://images.unsplash.com/photo-1434030216411-0b793f4b4173?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1770&q=80" />
 
+- 💻 Software Engineer Intern at <a href = 'https://www.linkedin.com/company/teladoc-health/'>Teladoc Health Inc</a>
+- 🏫 <a href = "https://flatironschool.com/">Flatiron School </a>, New York
+- 🎓 MM at <a href = "https://www.msmnyc.edu/"> Manhattan School of Music </a>
+- 🎓 BM at <a href = "https://music.fsu.edu/">Florida State Univeristy </a>
 
-- 🏫 Recent Software Engineer gratudate from Flatiron School, New York.
-- 🎓 MM at Manhattan School of Music
-- 🎓 BM at Florida State Univeristy 
 
-
-- 📚 I'm a full stack developer with a background as a professional musician. Strong skills in discipline, team-leading, critical thinking and project management.  With 7 years of experience in teaching and house managing concert halls, I bring systematic skills to tech projects with a desire to build projects that invoke creativity. As bilingual Korean-American, I look forward to working with a fast-paced, diverse work environment that values my persistence and quick ability to learn.
+- 📚 I'm a Korean-American, full stack developer with a background as a professional musician. Strong skills in discipline, team-leading, critical thinking and project management.  With 7 years of experience in teaching and house managing concert halls, I bring systematic skills to tech projects with a desire to build projects that invoke creativity.
 
 
 <h2> Skills </h2>
