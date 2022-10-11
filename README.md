@@ -13,9 +13,9 @@
 
 
 - 💻 Software Engineer at <a href = "https://www.teladoc.com/">Teladoc Health Inc</a>
-- 🏫 <a href = "https://flatironschool.com/">Flatiron School </a>, New York
-- 🎓 MM at <a href = "https://www.msmnyc.edu/"> Manhattan School of Music </a>
-- 🎓 BM at <a href = "https://music.fsu.edu/">Florida State Univeristy </a>
+- 🏫 <a href = "https://flatironschool.com/">Flatiron School</a>, New York
+- 🎓 MM at <a href = "https://www.msmnyc.edu/"> Manhattan School of Music</a>
+- 🎓 BM at <a href = "https://music.fsu.edu/">Florida State Univeristy</a>
 
 
 - 📚 I'm a South Korean-American classical pianist and a full-stack developer. With seven years of experience in teaching and managing concert halls, I bring systematic skills to projects with a desire that invokes creativity. I look forward to work in a fast-paced, diverse work environment that values my persistence and quick ability to learn.
@@ -37,13 +37,13 @@
 
 
 <h2> Connect with me </h2>
-<a href = 'https://www.linkedin.com/in/yearimyi/'>
-  <img width = '34px' align= 'center' src="https://westsiderc.org/wp-content/uploads/2021/04/Website-Icon-2.png"/>
+<a style="text-decoration: none;" href = 'https://www.linkedin.com/in/yearimyi/' >
+  <img width = '34px' align= 'center' src="https://westsiderc.org/wp-content/uploads/2021/04/Website-Icon-2.png" />
 </a> 
-<a href = 'https://github.com/leslieyi'> 
+<a href = 'https://github.com/leslieyi' style="text-decoration: none;"> 
   <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/>
 </a>
-<a href = "https://www.youtube.com/YearimLeslieYi">
+<a href = "https://www.youtube.com/YearimLeslieYi" style="text-decoration: none;">
   <img width = "32px" align = "center" src = "https://logos-world.net/wp-content/uploads/2020/04/YouTube-Emblem.png"/>
 </a>
 
