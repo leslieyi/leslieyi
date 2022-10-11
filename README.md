@@ -37,9 +37,7 @@
 
 
 <h2> Connect with me </h2>
-<a href = "https://yearimyi.com/">yearimyi.com</a>
-<a href = 'https://www.linkedin.com/in/yearimyi/'> <img width = '32px' align= 'center'  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/></a> 
-<a href = 'https://leslieyi.medium.com/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a> 
+<a href = 'https://www.linkedin.com/in/yearimyi/'><font size="+5"> 🎹 <font></a> 
 <a href = 'https://github.com/leslieyi'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
 <a href = "https://www.youtube.com/YearimLeslieYi"> <img width = "32px" align = "center" src = "https://logos-world.net/wp-content/uploads/2020/04/YouTube-Emblem.png"/></a>
 <a href = "https://www.instagram.com/yearim.yi/"> <img width = "45px" align = "center" src = "https://1000logos.net/wp-content/uploads/2017/02/Instagram-Logo-768x432.png"/></a>
