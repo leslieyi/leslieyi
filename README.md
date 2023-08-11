@@ -34,16 +34,16 @@
 
 
 <h2> Connect with Me </h2>
-<a style="text-decoration: none;" href = 'https://yearimyi.com' >
+<a style="text-decoration: none;" href = 'https://yearimyi.com' target = 'blank'>
    <img width = '34px' align= 'center' src="https://westsiderc.org/wp-content/uploads/2021/04/Website-Icon-2.png" />
 </a>  
-<a style="text-decoration: none;" href = 'https://www.linkedin.com/in/yearimyi/' >
+<a style="text-decoration: none;" href = 'https://www.linkedin.com/in/yearimyi/' target = 'blank' >
    <img width = '34px' align= 'center' src="https://img.icons8.com/?size=512&id=13930&format=png" />
 </a>  
-<a href = 'https://github.com/leslieyi' style="text-decoration: none;"> 
+<a href = 'https://github.com/leslieyi' style="text-decoration: none;" target = 'blank'> 
   <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/>
 </a>
-<a href = "https://www.youtube.com/YearimLeslieYi" style="text-decoration: none;">
+<a href = "https://www.youtube.com/YearimLeslieYi" style="text-decoration: none;" target = 'blank'>
   <img width = "32px" align = "center" src = "https://logos-world.net/wp-content/uploads/2020/04/YouTube-Emblem.png"/>
 </a>
 
