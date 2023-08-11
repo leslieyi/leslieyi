@@ -34,7 +34,7 @@
 
 
 <h2> Connect with Me </h2>
-<a style="text-decoration: none;" href = 'https://yearimyi.com' target = 'blank'>
+<a style="text-decoration: none;"  target="_blank"   href = 'https://yearimyi.com' >
    <img width = '34px' align= 'center' src="https://westsiderc.org/wp-content/uploads/2021/04/Website-Icon-2.png" />
 </a>  
 <a style="text-decoration: none;" href = 'https://www.linkedin.com/in/yearimyi/' target = 'blank' >
