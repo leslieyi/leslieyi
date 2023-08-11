@@ -7,18 +7,15 @@
 </p>
 
 
-<div size='20px'> My name is Yearim Leslie Yi. Thank You for taking the time to view my GitHub Profile!
+<div size='20px'> My name is Yearim Leslie Yi. Thanks for taking the time to view my GitHub!
 
 <h2> About Me </h2>
+📚 Accomplished South Korean-American classical pianist and full-stack developer with a unique blend of talents. Demonstrates exceptional abilities in discipline, leadership, critical thinking, and project management. Leveraging eight years of teaching and concert hall management experience, I bring a methodical approach to projects, coupled with a passion for fostering creativity. Eager to contribute within a dynamic and diverse work setting that values my determination and rapid learning prowess.
 
-
-- 💻 Software Engineer at <a href = "https://www.teladoc.com/">Teladoc Health Inc</a>
 - 🏫 <a href = "https://flatironschool.com/">Flatiron School</a>, New York
 - 🎓 MM at <a href = "https://www.msmnyc.edu/"> Manhattan School of Music</a>
 - 🎓 BM at <a href = "https://music.fsu.edu/">Florida State Univeristy</a>
 
-
-- 📚 I'm a South Korean-American classical pianist and a full-stack developer. With seven years of experience in teaching and managing concert halls, I bring systematic skills to projects with a desire that invokes creativity. I look forward to work in a fast-paced, diverse work environment that values my persistence and quick ability to learn.
 
 
 <h2> Skills </h2>
@@ -36,10 +33,13 @@
   <img width = '32px' align= 'center' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
 
 
-<h2> Connect with me </h2>
+<h2> Connect with Me </h2>
+<a style="text-decoration: none;" href = 'https://yearimyi.com' >
+   <img width = '34px' align= 'center' src="https://westsiderc.org/wp-content/uploads/2021/04/Website-Icon-2.png" />
+</a>  
 <a style="text-decoration: none;" href = 'https://www.linkedin.com/in/yearimyi/' >
-  <img width = '34px' align= 'center' src="https://westsiderc.org/wp-content/uploads/2021/04/Website-Icon-2.png" />
-</a> 
+   <img width = '34px' align= 'center' src="https://img.icons8.com/?size=512&id=13930&format=png" />
+</a>  
 <a href = 'https://github.com/leslieyi' style="text-decoration: none;"> 
   <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/>
 </a>
